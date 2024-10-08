@@ -1,0 +1,1 @@
+box-shadow: (horizontal position *px)|(vertical position *px)|(blur value *px) | (color-rgba)*a=opacity

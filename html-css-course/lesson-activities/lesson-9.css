@@ -1,0 +1,65 @@
+.box-of-div{
+    background-color: red;
+    height: 190px;
+    display: inline-block;
+    width: 190px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.div-1{
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+}
+
+.div-circle{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    display: inline-block;
+}
+.div-2{
+    display: block;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.text{
+    font-family: Arial,;
+}
+.div-3{
+    border-style: solid;
+    display: inline-block;
+    width: 300px;
+    height: 100px;
+    padding-left: 40px;
+    margin-left: 50px;
+    border-width: 0.1px;
+    border-color: rgb(167, 165, 165);
+}
+
+.div-4{
+    background-color: rgb(31, 31, 31);
+    display: inline-block;
+    margin-left: 500px;
+    width: 450px;
+    
+}
+.youtube-1{
+    color: white;
+    padding-left: 20px;
+    font-family: Arial;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.youtube-2{
+    font-family: Arial;
+    color: rgb(118, 115, 115);
+    width: 370px;
+    padding-left: 20px;
+    margin-bottom: 25px;
+}
